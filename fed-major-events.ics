@@ -1,0 +1,425 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Custom Fed Major Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Fed Policy - Critical
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:PT24H
+BEGIN:VEVENT
+UID:20260114-beige-book@fed-major-events
+DTSTAMP:20260608T170000Z
+DTSTART:20260114T190000Z
+DTEND:20260114T193000Z
+SUMMARY:Federal Reserve Beige Book
+DESCRIPTION:Federal Reserve Summary of Commentary on Current Economic Con
+ ditions by Federal Reserve District.
+URL:https://www.federalreserve.gov/monetarypolicy/publications/beige-book
+ -default.htm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260128-fomc-decision@fed-major-events
+DTSTAMP:20260608T170000Z
+DTSTART:20260128T190000Z
+DTEND:20260128T193000Z
+SUMMARY:FOMC Rate Decision
+DESCRIPTION:Federal Reserve FOMC policy statement release.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260128-fomc-press-conference@fed-major-events
+DTSTAMP:20260608T170000Z
+DTSTART:20260128T193000Z
+DTEND:20260128T203000Z
+SUMMARY:FOMC Press Conference
+DESCRIPTION:Federal Reserve Chair press conference following the FOMC pol
+ icy decision.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260218-fomc-minutes@fed-major-events
+DTSTAMP:20260608T170000Z
+DTSTART:20260218T190000Z
+DTEND:20260218T193000Z
+SUMMARY:FOMC Minutes — January 27-28 Meeting
+DESCRIPTION:Release of minutes from the January 27-28\, 2026 FOMC meeting
+ .
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260304-beige-book@fed-major-events
+DTSTAMP:20260608T170000Z
+DTSTART:20260304T190000Z
+DTEND:20260304T193000Z
+SUMMARY:Federal Reserve Beige Book
+DESCRIPTION:Federal Reserve Summary of Commentary on Current Economic Con
+ ditions by Federal Reserve District.
+URL:https://www.federalreserve.gov/monetarypolicy/publications/beige-book
+ -default.htm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260318-fomc-decision@fed-major-events
+DTSTAMP:20260608T170000Z
+DTSTART:20260318T180000Z
+DTEND:20260318T183000Z
+SUMMARY:FOMC Rate Decision + SEP / Dot Plot
+DESCRIPTION:Federal Reserve FOMC policy statement release. Includes the S
+ ummary of Economic Projections and dot plot.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260318-fomc-press-conference@fed-major-events
+DTSTAMP:20260608T170000Z
+DTSTART:20260318T183000Z
+DTEND:20260318T193000Z
+SUMMARY:FOMC Press Conference
+DESCRIPTION:Federal Reserve Chair press conference following the FOMC pol
+ icy decision.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260408-fomc-minutes@fed-major-events
+DTSTAMP:20260608T170000Z
+DTSTART:20260408T180000Z
+DTEND:20260408T183000Z
+SUMMARY:FOMC Minutes — March 17-18 Meeting
+DESCRIPTION:Release of minutes from the March 17-18\, 2026 FOMC meeting.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260415-beige-book@fed-major-events
+DTSTAMP:20260608T170000Z
+DTSTART:20260415T180000Z
+DTEND:20260415T183000Z
+SUMMARY:Federal Reserve Beige Book
+DESCRIPTION:Federal Reserve Summary of Commentary on Current Economic Con
+ ditions by Federal Reserve District.
+URL:https://www.federalreserve.gov/monetarypolicy/publications/beige-book
+ -default.htm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260429-fomc-decision@fed-major-events
+DTSTAMP:20260608T170000Z
+DTSTART:20260429T180000Z
+DTEND:20260429T183000Z
+SUMMARY:FOMC Rate Decision
+DESCRIPTION:Federal Reserve FOMC policy statement release.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260429-fomc-press-conference@fed-major-events
+DTSTAMP:20260608T170000Z
+DTSTART:20260429T183000Z
+DTEND:20260429T193000Z
+SUMMARY:FOMC Press Conference
+DESCRIPTION:Federal Reserve Chair press conference following the FOMC pol
+ icy decision.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260520-fomc-minutes@fed-major-events
+DTSTAMP:20260608T170000Z
+DTSTART:20260520T180000Z
+DTEND:20260520T183000Z
+SUMMARY:FOMC Minutes — April 28-29 Meeting
+DESCRIPTION:Release of minutes from the April 28-29\, 2026 FOMC meeting.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260603-beige-book@fed-major-events
+DTSTAMP:20260608T170000Z
+DTSTART:20260603T180000Z
+DTEND:20260603T183000Z
+SUMMARY:Federal Reserve Beige Book
+DESCRIPTION:Federal Reserve Summary of Commentary on Current Economic Con
+ ditions by Federal Reserve District.
+URL:https://www.federalreserve.gov/monetarypolicy/publications/beige-book
+ -default.htm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260617-fomc-decision@fed-major-events
+DTSTAMP:20260608T170000Z
+DTSTART:20260617T180000Z
+DTEND:20260617T183000Z
+SUMMARY:FOMC Rate Decision + SEP / Dot Plot
+DESCRIPTION:Federal Reserve FOMC policy statement release. Includes the S
+ ummary of Economic Projections and dot plot.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260617-fomc-press-conference@fed-major-events
+DTSTAMP:20260608T170000Z
+DTSTART:20260617T183000Z
+DTEND:20260617T193000Z
+SUMMARY:FOMC Press Conference
+DESCRIPTION:Federal Reserve Chair press conference following the FOMC pol
+ icy decision.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260708-fomc-minutes@fed-major-events
+DTSTAMP:20260608T170000Z
+DTSTART:20260708T180000Z
+DTEND:20260708T183000Z
+SUMMARY:FOMC Minutes — June 16-17 Meeting
+DESCRIPTION:Release of minutes from the June 16-17\, 2026 FOMC meeting.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260715-beige-book@fed-major-events
+DTSTAMP:20260608T170000Z
+DTSTART:20260715T180000Z
+DTEND:20260715T183000Z
+SUMMARY:Federal Reserve Beige Book
+DESCRIPTION:Federal Reserve Summary of Commentary on Current Economic Con
+ ditions by Federal Reserve District.
+URL:https://www.federalreserve.gov/monetarypolicy/publications/beige-book
+ -default.htm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260729-fomc-decision@fed-major-events
+DTSTAMP:20260608T170000Z
+DTSTART:20260729T180000Z
+DTEND:20260729T183000Z
+SUMMARY:FOMC Rate Decision
+DESCRIPTION:Federal Reserve FOMC policy statement release.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260729-fomc-press-conference@fed-major-events
+DTSTAMP:20260608T170000Z
+DTSTART:20260729T183000Z
+DTEND:20260729T193000Z
+SUMMARY:FOMC Press Conference
+DESCRIPTION:Federal Reserve Chair press conference following the FOMC pol
+ icy decision.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260819-fomc-minutes@fed-major-events
+DTSTAMP:20260608T170000Z
+DTSTART:20260819T180000Z
+DTEND:20260819T183000Z
+SUMMARY:FOMC Minutes — July 28-29 Meeting
+DESCRIPTION:Release of minutes from the July 28-29\, 2026 FOMC meeting.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260902-beige-book@fed-major-events
+DTSTAMP:20260608T170000Z
+DTSTART:20260902T180000Z
+DTEND:20260902T183000Z
+SUMMARY:Federal Reserve Beige Book
+DESCRIPTION:Federal Reserve Summary of Commentary on Current Economic Con
+ ditions by Federal Reserve District.
+URL:https://www.federalreserve.gov/monetarypolicy/publications/beige-book
+ -default.htm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260916-fomc-decision@fed-major-events
+DTSTAMP:20260608T170000Z
+DTSTART:20260916T180000Z
+DTEND:20260916T183000Z
+SUMMARY:FOMC Rate Decision + SEP / Dot Plot
+DESCRIPTION:Federal Reserve FOMC policy statement release. Includes the S
+ ummary of Economic Projections and dot plot.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20260916-fomc-press-conference@fed-major-events
+DTSTAMP:20260608T170000Z
+DTSTART:20260916T183000Z
+DTEND:20260916T193000Z
+SUMMARY:FOMC Press Conference
+DESCRIPTION:Federal Reserve Chair press conference following the FOMC pol
+ icy decision.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261007-fomc-minutes@fed-major-events
+DTSTAMP:20260608T170000Z
+DTSTART:20261007T180000Z
+DTEND:20261007T183000Z
+SUMMARY:FOMC Minutes — September 15-16 Meeting
+DESCRIPTION:Release of minutes from the September 15-16\, 2026 FOMC meeti
+ ng.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261014-beige-book@fed-major-events
+DTSTAMP:20260608T170000Z
+DTSTART:20261014T180000Z
+DTEND:20261014T183000Z
+SUMMARY:Federal Reserve Beige Book
+DESCRIPTION:Federal Reserve Summary of Commentary on Current Economic Con
+ ditions by Federal Reserve District.
+URL:https://www.federalreserve.gov/monetarypolicy/publications/beige-book
+ -default.htm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261028-fomc-decision@fed-major-events
+DTSTAMP:20260608T170000Z
+DTSTART:20261028T180000Z
+DTEND:20261028T183000Z
+SUMMARY:FOMC Rate Decision
+DESCRIPTION:Federal Reserve FOMC policy statement release.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261028-fomc-press-conference@fed-major-events
+DTSTAMP:20260608T170000Z
+DTSTART:20261028T183000Z
+DTEND:20261028T193000Z
+SUMMARY:FOMC Press Conference
+DESCRIPTION:Federal Reserve Chair press conference following the FOMC pol
+ icy decision.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261118-fomc-minutes@fed-major-events
+DTSTAMP:20260608T170000Z
+DTSTART:20261118T190000Z
+DTEND:20261118T193000Z
+SUMMARY:FOMC Minutes — October 27-28 Meeting
+DESCRIPTION:Release of minutes from the October 27-28\, 2026 FOMC meeting
+ .
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261125-beige-book@fed-major-events
+DTSTAMP:20260608T170000Z
+DTSTART:20261125T190000Z
+DTEND:20261125T193000Z
+SUMMARY:Federal Reserve Beige Book
+DESCRIPTION:Federal Reserve Summary of Commentary on Current Economic Con
+ ditions by Federal Reserve District.
+URL:https://www.federalreserve.gov/monetarypolicy/publications/beige-book
+ -default.htm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261209-fomc-decision@fed-major-events
+DTSTAMP:20260608T170000Z
+DTSTART:20261209T190000Z
+DTEND:20261209T193000Z
+SUMMARY:FOMC Rate Decision + SEP / Dot Plot
+DESCRIPTION:Federal Reserve FOMC policy statement release. Includes the S
+ ummary of Economic Projections and dot plot.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261209-fomc-press-conference@fed-major-events
+DTSTAMP:20260608T170000Z
+DTSTART:20261209T193000Z
+DTEND:20261209T203000Z
+SUMMARY:FOMC Press Conference
+DESCRIPTION:Federal Reserve Chair press conference following the FOMC pol
+ icy decision.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261230-fomc-minutes@fed-major-events
+DTSTAMP:20260608T170000Z
+DTSTART:20261230T190000Z
+DTEND:20261230T193000Z
+SUMMARY:FOMC Minutes — December 8-9 Meeting
+DESCRIPTION:Release of minutes from the December 8-9\, 2026 FOMC meeting.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR
