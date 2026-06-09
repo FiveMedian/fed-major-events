@@ -422,4 +422,20 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
 END:VEVENT
+BEGIN:VEVENT
+UID:20260827-jackson-hole-symposium-watch@fed-major-events
+DTSTAMP:20260608T204901Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260830
+SUMMARY:Jackson Hole Economic Policy Symposium — Chair Address Watch
+DESCRIPTION:The Kansas City Fed's 2026 Jackson Hole Economic Policy Sympo
+ sium is scheduled for August 27-29. The Federal Reserve Chair's address 
+ has not yet been formally scheduled. Update this event when the official
+  agenda\, speaker\, date\, and time are published.
+URL:https://www.kansascityfed.org/research/jackson-hole-economic-symposiu
+ m/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
 END:VCALENDAR
